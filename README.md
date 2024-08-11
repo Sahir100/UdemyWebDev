@@ -1,2 +1,0 @@
-# UdemyWebDev
-WebDevelopment - Udemy
